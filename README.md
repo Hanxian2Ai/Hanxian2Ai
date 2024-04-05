@@ -1,7 +1,7 @@
 ## 我是Hanxian
 
 - 🌹211计算机技术硕在读，工作时长两年的程序猿🐵
-- 🏡 作品： <a href="https://github.com/Hanxian2Ai/Kaggle-Competition-Image-To-Prompt" target="_blank">Kaggle-Competition-Image-To-Promp铜牌解决方案🔥</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">敏感词过滤✨</a>|
+- 🏡 作品： <a href="https://github.com/Hanxian2Ai/Kaggle-Competition-Image-To-Prompt" target="_blank">Kaggle-Competition-Image-To-Promp铜牌解决方案🔥</a> | <a href="" target="_blank">智能BI✨</a>|<a href="" target="_blank">敏感词过滤🎉</a>
 
 ### ✨ 我的技能   
 
