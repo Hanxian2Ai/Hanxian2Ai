@@ -1,6 +1,6 @@
 ## 我是Hanxian
 
-- 🌹211计算机技术硕在读，工作时长两年的程序猿🐵
+- 🌹211计算机技术硕，练习时长两年半的程序猿🐵
 - 🏡 作品： <a href="https://github.com/Hanxian2Ai/Kaggle-Competition-Image-To-Prompt" target="_blank">Kaggle-Competition-Image-To-Promp铜牌解决方案🔥</a> | <a href="https://aistudio.baidu.com/projectdetail/4799078" target="_blank">百度网盘AI大赛-模糊文档图像恢复赛第六名方案✨</a>
 
 ### ✨ 我的技能   
